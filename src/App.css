@@ -1,0 +1,222 @@
+.App {
+  margin : 3%;
+  /* background-color:blueviolet */
+}
+
+/*
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+*/ 
+
+/* -----------------------------memorable game ------------------------------- */
+/* 
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh; 
+  color: white;
+  display: flex;
+  align-items:center;
+  justify-content: space-between;
+}
+.card-container{
+  display: flex;
+  align-items:center;
+  justify-content: space-between;
+  
+ 
+}
+.card{
+ 
+  display: inline-block; 
+  width: 50px;
+  height: 50px;
+  border: 2px solid blanchedalmond;
+  margin: 4px 2px;
+}  */
+
+
+/* ---------------------------------Quize------------------------ */
+
+
+
+
+/* -----------------------------todolist -------------------------------- */
+
+/* 
+ .completed{
+  text-decoration: line-through;
+ }
+*/
+
+/* ------------------------------userlist-------------------------- */
+
+/*
+img{
+  height: 28px;
+  width: 32px;
+  border-radius: 50%;
+}
+*/
+
+/* -----------------------------------job-listing------------------------------ */
+
+/* .job-container{
+  border: 2px solid gray;
+  border-radius: 3%;
+  margin: 5px;
+}
+
+span{
+  border: 1px solid burlywood;
+  margin: 5px;
+}
+span:hover{
+  background-color: bisque;
+}
+.sortable-element:hover{
+  background-color: bisque;
+  font-size: larger;
+} */
+
+
+/* --------------------------------web dictionary--------------------------------------- */
+/* .result-container{
+  
+  border: 2px solid gray;
+  border-radius: 2%;
+  margin: 5px;
+  padding: 10px;
+} */
+
+/* --------------------------------tic tac toe -------------------------------- */
+
+/* .btn-game{
+  height: 20px;
+  width: 25px;
+} */
+
+/* ------------------------------------Grocery list-------------------------- */
+
+/* .grocery-item{
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid gray;
+  margin: auto;
+  padding: auto;
+  margin-top: 2px;
+  border-radius: 5% 5%;
+
+}
+
+.btn-item{
+  margin: 3px;
+}
+li{
+  
+  font-weight: bolder;
+}
+
+.input{
+  margin:   5px auto;
+} */
+
+/* ------------------------------Activity list---------------------- */
+
+/* .activity{
+  border: 2px solid gray;
+  margin: 3px auto;
+  padding-left: 5px;
+}
+
+.btn-generate{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.activity-item{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container-item{
+  display: block;
+} */
+
+/* ----------------------------------task and subtask list----------------- */
+
+/* .subtask-contaniner{
+  display: flex;
+  justify-content: space-between;
+} */
+
+/* ------------------------------------------text listing with ellipses--------------- */
+
+/* 
+.input-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 200px;
+}
+.popup-container{
+  
+  background-color: rgba(219, 189, 189, 0.829);
+  text-align: center;
+  font-weight: bold;
+  box-shadow: 5cm;
+  padding:5%;
+  border-radius: 5%;
+  overflow: auto;
+  size: auto;
+
+}
+.popup-text{
+  font-weight: bolder;
+  font-size: larger;
+}
+
+.text{
+  font-size: larger;
+  font-weight: bolder;
+  font-family:'Times New Roman', Times, serif;
+  
+} */
+
+/* --------------------------------------merge tree--------------------- */
+
+/* .main-contaniner{
+  display:flex;
+  justify-content: space-between;
+}
+
+.item{
+  display:  flex;
+  flex-direction: row;
+  justify-content: space-around;
+} */
+
+
